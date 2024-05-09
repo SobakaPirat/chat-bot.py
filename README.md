@@ -1,2 +1,2 @@
 # chat bot.py
- simple chat bot for russian-speaking peoples
+A simple chatbot for Russian-speaking users
